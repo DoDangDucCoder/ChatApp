@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatApp",
+    "\\ChatApp\\ChatApp",
+    "\\ChatApp\\ChatApp\\MVVM",
+    "\\ChatApp\\ChatApp\\MVVM\\View",
+    "\\ChatApp\\ChatServer"
+  ],
+  "SelectedNode": "\\ChatApp\\ChatServer\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
